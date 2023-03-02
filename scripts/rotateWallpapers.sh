@@ -10,4 +10,4 @@ let "CURRENT_WP %= $WP_COUNT"
  
  echo $WP_PATH/${LIST[CURRENT_WP]} 
 # swaybg -i $WP_PATH/${LIST[CURRENT_WP]} 
-swaybg -i /home/abhi/.config/hypr/wallpapers/wallpaper.jpg -m fit -c "#000000"
+swaybg -i ~/.config/hypr/wallpapers/wallpaper.jpg -c "#000000"
